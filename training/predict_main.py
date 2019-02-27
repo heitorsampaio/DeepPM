@@ -3,7 +3,7 @@ import sys
 import os
 import shutil
 
-GLOBAL_PATH='/Users/heitorsampaio/Google_Drive/Projetos/Protein_DeepLearning/DeepSF';
+GLOBAL_PATH='/Users/heitorsampaio/Google_Drive/Projetos/Protein_DeepLearning/DeepPM'
 sys.path.insert(0, GLOBAL_PATH+'/lib')
 
 
